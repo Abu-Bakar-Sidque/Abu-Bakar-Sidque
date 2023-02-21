@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/abubakarsidque5" target="blank"><img src="https://img.shields.io/twitter/follow/abubakarsidque5?logo=twitter&style=for-the-badge" alt="abubakarsidque5" /></a> </p>
 
-- 💬 Ask me about **web development, Android**
+- 💬 Ask me about **web development, Online marketing**
 
 - 📫 How to reach me **abubakarsidque5@gmail.com**
 
