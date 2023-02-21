@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **abubakarsidque5@gmail.com**
 
-- 👀 More details **abu-bakar-sidque.github.io/profilee**
+- 👀 More details **https://abu-bakar-sidque.github.io/profilee**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
